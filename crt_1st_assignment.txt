@@ -1,0 +1,16 @@
+                          Data Science with ML & AI  
+Topic –  Python(Data types and Operators, Conditional Statement ) 
+ 
+Assignment 1:-  
+Q1.How do lists and tuples differ in terms of mutability and performance? When would you choose one over the other? 
+Ans.In terms of mutability lists are mutable, meaning we can modify their elements (add, remove, or change values).
+Performance:Lists are slower because they require dynamic memory allocation and additional operations for resizing.
+Tuples are faster because they are stored in a fixed manner and are more efficient.
+
+When to use List:
+When we need to modify the data (add, remove, update elements).
+Order can be change and need flexibility in size.
+When to use Tuple:
+The data is fixed and should not be changed.
+Need fo better performance and lower memory usage.
+
